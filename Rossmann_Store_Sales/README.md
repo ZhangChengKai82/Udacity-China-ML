@@ -34,3 +34,6 @@ Rossmann是欧洲的一家连锁药店。 在这个源自Kaggle比赛[Rossmann S
 
 [第三名的方案](https://github.com/entron/entity-embedding-rossmann)
 
+
+The submition.ipynb is my analysis and step to create the machine learning model.
+The report is the detailed description of building the required model and meeting the requirement.
