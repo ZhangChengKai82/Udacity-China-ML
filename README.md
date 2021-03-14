@@ -2,5 +2,11 @@
 
 [点击这里](https://github.com/udacity/machine-learning/)查看项目文档的英文版本。
 
-如果你发现任何翻译错误，或有任何建议，欢迎提交 issue 告诉我们！
+I have made my solution for below projects and store my solution file under its respected project folder.
+
+Rossmann_Store_Sales
+boston_housing
+creating_customer_segments
+finding_donors
+titanic_survival_exploration
 
