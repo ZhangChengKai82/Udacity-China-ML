@@ -5,8 +5,8 @@
 I have made my solution for below projects and store my solution file under its respected project folder.
 
 Rossmann_Store_Sales
-boston_housing
-creating_customer_segments
+\boston_housing
+/creating_customer_segments
 finding_donors
 titanic_survival_exploration
 
