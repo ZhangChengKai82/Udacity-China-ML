@@ -38,3 +38,5 @@
 **目标变量**
 
 `MEDV`: 房屋的中值价格
+
+My Solution is in boston_housing_byPeter with HTML and ipynb version.
