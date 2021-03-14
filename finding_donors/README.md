@@ -55,4 +55,4 @@ jupyter notebook finding_donors.ipynb
 - `income`: 一个类别变量，表示收入属于那个类别，允许的值有 {<=50K, >50K}
 
 
-The 'finding_donors' is the solution I created. There are an ipynb version and a HTML version.
+The 'finding_donors_byPeter' is the solution I created. There are an ipynb version and a HTML version.
